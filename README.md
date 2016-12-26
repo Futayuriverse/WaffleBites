@@ -1,6 +1,16 @@
 # WaffleBites
 This is a directory for tracking bugs of FYV's sites.
 
+### Changelogs/Updates
+- [x] Social Logins
+- [ ] Notifications from person you follow
+- [x] Live Support Chat
+- [ ] Beta Trial
+- [ ] Completed Knowledge Base
+- [x] Wiki Site
+- [x] Blogs
+- [x] Splash Page
+
 ### Bugs
 ~~Email Issues~~
 
