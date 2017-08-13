@@ -7,9 +7,9 @@ This is a directory for tracking bugs of FYV's sites.
 - [x] Live Support Chat
 - [ ] Beta Trial
 - [ ] Completed Knowledge Base
-- [x] Wiki Site
+- [x] Wiki on Site
 - [x] Blogs
-- [x] Splash Page
+- [x] New splash page
 
 ### Bugs
 ~~Email Issues~~
